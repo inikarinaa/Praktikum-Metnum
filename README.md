@@ -1,1 +1,2 @@
 # Praktikum-Metnum
+L0325006_KARINA PURNA AYUNIDA
