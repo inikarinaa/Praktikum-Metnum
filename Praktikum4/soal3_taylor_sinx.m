@@ -29,6 +29,3 @@ for k = 1:length(N_list)
 end
 
 fprintf('========================================================\n');
-
-% Catatan: variabel 'hasil' (matriks [N, Pendekatan, Galat, Galat_Relatif])
-% dapat langsung dipakai untuk menyusun tabel pada laporan.
